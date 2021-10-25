@@ -1,2 +1,3 @@
-# czit-ukoly
-Domácí úkoly CZIT-PROG
+# Domácí úkoly Czechitas
+
+Naše domácí úkoly
